@@ -1,0 +1,14 @@
+.Footer {
+  width: 100%;
+
+  .social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    font-size: 2.5rem;
+  }
+
+  .social-icon {
+    cursor: pointer;
+  }
+}
